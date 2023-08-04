@@ -51,7 +51,9 @@ Happy drawing!
 
 ## Screenshots
 ### Intro_look
-![[Pasted image 20230804120851.png]]
+![python_EBSnckvrQQ](https://github.com/Bharatdwaj3/BG_Paint/assets/106575806/83c21220-e713-4630-be95-4ef98d6c4349)
+
 
 ### Color Picker 
-![[Pasted image 20230804121002.png]]
+![python_fYQPNxa5D8](https://github.com/Bharatdwaj3/BG_Paint/assets/106575806/83515d4b-b411-4ca4-b432-f0b4d2fe7cea)
+
